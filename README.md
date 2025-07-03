@@ -12,14 +12,6 @@ A modern, real-time notification client for e-commerce applications. This client
 - **User-specific Messaging**: Optional user ID for targeted notifications
 - **Auto-reconnection**: Automatic reconnection with intelligent retry logic
 
-### 🎨 User Interface
-- **Modern Design**: Clean, responsive UI built with Tailwind CSS
-- **Real-time Status**: Live connection status indicator
-- **Message History**: View all received notifications with timestamps
-- **Connection Logs**: Detailed logging of connection events and errors
-- **Statistics Dashboard**: Track message counts and connection uptime
-- **Dark Theme**: Professional dark theme for better user experience
-
 ### 🔧 Technical Features
 - **TypeScript**: Full type safety and modern JavaScript features
 - **Vite**: Fast development server and build tool
