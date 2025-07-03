@@ -1,0 +1,33 @@
+{
+  "name": "signalr-client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "dev": "vite",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmetcanari/signalR-client.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mehmetcanari/signalR-client/issues"
+  },
+  "homepage": "https://github.com/mehmetcanari/signalR-client#readme",
+  "dependencies": {
+    "@microsoft/signalr": "^8.0.7",
+    "typescript": "^5.8.3",
+    "vite": "^7.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^24.0.10",
+    "ts-node": "^10.9.2"
+  }
+}
