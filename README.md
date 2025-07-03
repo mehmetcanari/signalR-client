@@ -1,6 +1,7 @@
 # 🔔 SignalR E-Commerce Notification Client
 
 A modern, real-time notification client for e-commerce applications. This client provides a clean, responsive interface for testing and monitoring SignalR connections and real-time notifications.
+![e-commerce-notification](https://github.com/user-attachments/assets/3d518c95-c839-49fe-8b0a-3e71d94efcb4)
 
 ## ✨ Features
 
